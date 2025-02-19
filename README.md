@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hi, I'm Aashish Sharma! 🚀  
+💻 **Cloud DevOps Engineer | AWS | Terraform | Kubernetes | CI/CD**  
 
-<!--
-**Aashish129/Aashish129** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔥 Passionate about building scalable cloud solutions & automating everything!  
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack  
+- **Cloud:** AWS (EC2, S3, Lambda, VPC, IAM)  
+- **IaC:** Terraform, CloudFormation  
+- **CI/CD:** Azure DevOps, Jenkins, GitHub Actions  
+- **Containers:** Docker, Kubernetes  
+- **Scripting:** Python, Bash, PowerShell  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Featured Projects  
+🔹 [DevOps Automation with Terraform](https://github.com/Aashish129/terraform-devops-project)  
+🔹 [Kubernetes Deployment](https://github.com/Aashish129/k8s-deployments)  
+🔹 [CI/CD Pipeline with Jenkins & GitHub Actions](https://github.com/Aashish129/cicd-jenkins)  
+
+## 📊 GitHub Stats  
+![Aashish's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aashish129&show_icons=true&theme=dark)  
+
+📫 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/aashishsharma01041989/)  
