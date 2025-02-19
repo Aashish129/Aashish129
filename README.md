@@ -1,21 +1,43 @@
-# 👋 Hi, I'm Aashish Sharma! 🚀  
-💻 **Cloud DevOps Engineer | AWS | Terraform | Kubernetes | CI/CD**  
+### 👋 Hi, I'm Aashish Sharma! 🚀  
 
-🔥 Passionate about building scalable cloud solutions & automating everything!  
+```
+    _        _     _       _     _ 
+   / \   ___| |_  (_) ___ | |__ (_) 
+  / _ \ / __| __| | |/ _ \| '_ \| |
+ / ___ \\__ \ |_  | | (_) | | | | |
+/_/   \_\___/\__| |_|\___/|_| |_|_|
+```
+
+**Cloud DevOps Engineer | AWS | Terraform | Kubernetes | CI/CD**  
+
+💡 Passionate about building scalable cloud solutions, automating deployments, and optimizing infrastructure!  
+
+---
 
 ## 🛠️ Tech Stack  
-- **Cloud:** AWS (EC2, S3, Lambda, VPC, IAM)  
-- **IaC:** Terraform, CloudFormation  
-- **CI/CD:** Azure DevOps, Jenkins, GitHub Actions  
-- **Containers:** Docker, Kubernetes  
-- **Scripting:** Python, Bash, PowerShell  
+- 🚀 **Cloud:** AWS (EC2, S3, Lambda, VPC, IAM)  
+- 🏗️ **Infrastructure as Code:** Terraform, CloudFormation  
+- ⚙️ **CI/CD Pipelines:** Azure DevOps, Jenkins, GitHub Actions  
+- 📦 **Containers & Orchestration:** Docker, Kubernetes, Amazon EKS  
+- 🖥️ **Scripting & Automation:** Python, Bash, PowerShell  
+- 🔐 **Security & Compliance:** IAM, KMS, Encryption, DevSecOps Practices  
+
+---
 
 ## 📌 Featured Projects  
-🔹 [DevOps Automation with Terraform](https://github.com/Aashish129/terraform-devops-project)  
-🔹 [Kubernetes Deployment](https://github.com/Aashish129/k8s-deployments)  
-🔹 [CI/CD Pipeline with Jenkins & GitHub Actions](https://github.com/Aashish129/cicd-jenkins)  
+🔹 [🚀 DevOps Automation with Terraform](https://github.com/Aashish129/terraform-devops-project)  
+🔹 [☸️ Kubernetes Deployment](https://github.com/Aashish129/k8s-deployments)  
+🔹 [⚙️ CI/CD Pipeline with Jenkins & GitHub Actions](https://github.com/Aashish129/cicd-jenkins)  
+
+---
 
 ## 📊 GitHub Stats  
 ![Aashish's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aashish129&show_icons=true&theme=dark)  
 
-📫 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/aashishsharma01041989/)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aashish129&layout=compact&theme=dark)](https://github.com/Aashish129)  
+
+---
+
+## 📫 Connect with Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-AashishSharma-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/aashishsharma01041989/)  
+[![GitHub](https://img.shields.io/badge/GitHub-Aashish129-black?style=flat-square&logo=github)](https://github.com/Aashish129)  
